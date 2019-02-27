@@ -2,7 +2,7 @@
  *  
  MIT License
 
-Copyright (c) 2019 Exotic-verma
+Copyright (c) 2019 Verma-v2
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  *  This code is to communicate with thingspeak speak server using esp8266 and arduino.
  * Here We are trying to send temperature data of two sensor(lm35/ds18b20).
- * code is developed by Gyanendra verma(Exotic-verma).
+ * code is developed by Gyanendra verma(Verma-v2).
  * Only exception is you have to configure your esp first to connect with wifi, if using AT commands. 
  * Then only it will work.
  */
